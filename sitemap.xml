@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     
+
+
+
+<url>
+  <loc>https://s-mobile.netlify.app/</loc>
+  <lastmod>2024-03-11</lastmod>
+  <changefreq>Monthly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://s-mobile.netlify.app/prodavnica</loc>
+  <lastmod>2024-03-11</lastmod>
+   <changefreq>Weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://s-mobile.netlify.app/korpa</loc>
+  <lastmod>2024-03-11</lastmod>
+   <changefreq>Daily</changefreq>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>

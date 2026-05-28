@@ -1,0 +1,28 @@
+[
+{
+"ime":"POČETNA",
+"href":"index.html"
+
+
+},
+{
+    "ime":"TELEFONI",
+    "href":"prodavnica.html"
+    
+    
+    },
+    {
+        "ime":"O AUTORU",
+        "href":"autor.html"
+        
+        
+        },
+        {
+            "ime":"DOKUMENTACIJA",
+            "href":"dokumentacija2.pdf"
+        }
+
+
+
+
+]

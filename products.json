@@ -1,0 +1,126 @@
+[
+{
+"id":1,
+"naziv":"Iphone 15",
+"staracena":84500,
+"trenutnacena":80235,
+"href":"iphone15.jpg",
+"brend":1,
+"tipEkrana":3,
+"boja":1
+
+
+},
+{
+    "id":2,
+    "naziv":"Iphone 15 Pro Max",
+    "staracena":105600,
+    "trenutnacena":95300,
+    "href":"iphone15promax2.png",
+    "preporuceno":true,
+    "brend":1,
+    "tipEkrana":2,
+    "boja":1
+    
+    
+    },
+    {
+        "id":3,
+        "naziv":"Iphone 13 Pro",
+        "staracena":84500,
+        "trenutnacena":80235,
+        "href":"iphone13pro.png",
+        "brend":1,
+        "tipEkrana":2,
+        "boja":3
+        
+        
+        },
+        {
+            "id":4,
+            "naziv":"SAMSUNG S23 Ultra",
+            "staracena":132500,
+            "trenutnacena":100070,
+            "href":"s23ultra.jpg",
+            "preporuceno":true,
+            "brend":2,
+            "tipEkrana":"AMOLED",
+            "boja":1
+            
+            
+            },
+            {
+                "id":5,
+                "naziv":"SAMSUNG S23 ",
+                "staracena":92300,
+                "trenutnacena":88900,
+                "href":"s23.jpg",
+                "brend":2,
+                "tipEkrana":"AMOLED",
+                "boja":1
+                
+                
+                },
+                {
+                    "id":6,
+                    "naziv":"SAMSUNG A52",
+                    "staracena":65350,
+                    "trenutnacena":55900,
+                    "href":"a52.jpg",
+                    "brend":2,
+                    "tipEkrana":1,
+                    "boja":3
+                    
+                    
+                    },
+                    {
+                        "id":7,
+                        "naziv":"HONOR 70",
+                        "staracena":82320,
+                        "trenutnacena":80000,
+                        "href":"honor70.png",
+                        "brend":3,
+                        "tipEkrana":"OLED",
+                        "boja":2
+                        
+                        
+                        },
+                        {
+                            "id":8,
+                            "naziv":"HONOR Magic 5 Lite",
+                            "staracena":72300,
+                            "trenutnacena":62800,
+                            "href":"magic5lite.png",
+                            "preporuceno":true,
+                            "brend":3,
+                            "tipEkrana":"AMOLED"
+                            
+                            
+                            },
+                            {
+                                "id":9,
+                                "naziv":"HONOR 8x",
+                                "staracena":59600,
+                                "trenutnacena":44200,
+                                "href":"honor8x.jpg",
+                                "brend":3,
+                                "tipEkrana":"IPS",
+                                "boja":3
+                                
+                                
+                                }   
+        
+       
+
+
+
+
+
+
+
+
+
+
+
+
+]
